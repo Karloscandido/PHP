@@ -1,0 +1,56 @@
+{
+    "scan_time": "07/01/23 01:50:20",
+    "portal": "http://srpkinje.kurve.babo.vas.jebe.gentv.to:8080/portal.php",
+    "mac": "00:1A:79:40:F4:7E",
+    "sn": "DFF3DF9B12750",
+    "device_id": "BA2B695C532A7512526E91FF6C76BC498438BEEF130B80F1BBF6D6EAF6614870",
+    "signature": "84C564507FBCC391316B5F216501CF32F8233321D22735109670E87A59249C64",
+    "main_info": {
+        "mac": "00:1A:79:40:F4:7E",
+        "phone": "September 21, 2023, 10:07 pm"
+    },
+    "genres": [
+        "24/7 Germany",
+        "All",
+        "Arab Countries",
+        "Arab Countries VIP",
+        "For Adults",
+        "Germany",
+        "VIP Sports",
+        "beIN - Qatar ARB"
+    ],
+    "playlist": {
+        "M-Home:T4ai1qhdtE": {
+            "user_info": {
+                "username": "M-Home",
+                "password": "T4ai1qhdtE",
+                "message": "",
+                "auth": 1,
+                "status": "Active",
+                "exp_date": "21-09-2023 22:07:52  (82 days))",
+                "is_trial": "0",
+                "active_cons": "0",
+                "created_at": "21-06-2023 22:07:52  (-10 days))",
+                "max_connections": "1",
+                "allowed_output_formats": [
+                    "m3u8",
+                    "ts",
+                    "rtmp"
+                ]
+            },
+            "server_info": {
+                "url": "magm1giillmig.funtogether.xyz",
+                "port": "8080",
+                "https_port": "25463",
+                "server_protocol": "http",
+                "rtmp_port": "25462",
+                "timezone": "UTC",
+                "timestamp_now": 1688169021,
+                "time_now": "2023-06-30 23:50:21",
+                "process": true
+            },
+            "m3u_url": "http://magm1giillmig.funtogether.xyz:8080/get.php?username=M-Home&password=T4ai1qhdtE&type=m3u",
+            "info_url": "http://magm1giillmig.funtogether.xyz:8080/player_api.php?username=M-Home&password=T4ai1qhdtE&type=m3u"
+        }
+    }
+}
