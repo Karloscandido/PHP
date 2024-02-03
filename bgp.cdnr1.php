@@ -1,1 +1,1 @@
-{ "list": "http://touroboxt7.spsrv.fun/get.php?username=vteno&password=194422&type=m3u_plus","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2025", "success": true, "notifications": "" }
+{ "list": "http://touroboxt7.spsrv.fun/player_api.php?username=vteno&password=194422&type=m3u_plus","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2025", "success": true, "notifications": "" }
