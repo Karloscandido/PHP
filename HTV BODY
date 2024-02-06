@@ -1,1 +1,1 @@
-{ "list": "http://78.159.119.122:2095/get.php?username=Tourobox2-5LYjiY48bB&password=rOmDXHFLhI&type=m3u_plus","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2025", "success": true, "notifications": "" }
+{ "list": "http://78.159.119.122:2095/get.php?username=Tourobox2-5LYjiY48bB&password=rOmDXHFLhI&type=m3u_plus","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "epg": "http://78.159.119.122:2095/xmltv.php?username=Tourobox2-5LYjiY48bB&password=rOmDXHFLhI&type=m3u_plus", "validity": "31/12/2025", "success": true, "notifications": "" }
