@@ -1,0 +1,28 @@
+{
+  "user_info": {
+    "username": "Us85c4s",
+    "password": "Hd6s78dj",
+    "message": "",
+    "auth": 1,
+    "status": "Active",
+    "exp_date": "1713978341",
+    "is_trial": "0",
+    "active_cons": "0",
+    "created_at": "1654901072",
+    "max_connections": "1",
+    "allowed_output_formats": [
+      "m3u8",
+      "ts"
+    ]
+  },
+  "server_info": {
+    "url": "7forever.xyz",
+    "port": "8080",
+    "https_port": "8443",
+    "server_protocol": "http",
+    "rtmp_port": "25462",
+    "timezone": "America/Sao_Paulo",
+    "timestamp_now": 1711476956,
+    "time_now": "2024-03-26 15:15:56"
+  }
+}
