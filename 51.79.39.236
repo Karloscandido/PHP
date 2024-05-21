@@ -1,0 +1,27 @@
+{
+  "informação de usuário": {
+    "nome de usuário": "soiihvbt",
+    "senha": "vu8v1R9e2C",
+    "message": "Bem-vindos!",
+    "autenticação": 1,
+    "status": "Ativo",
+    "data_exp": "1716494106",
+    "is_trial": "0",
+    "ativo_cons": "0",
+    "criado_em": "1697830884",
+    "max_conexões": "3",
+    "formatos_de_saída_permitidos": [
+      "m3u8",
+      "ts"
+    ]
+  },
+  "informações_servidor": {
+    "url": "51.79.39.236",
+    "porta": "80",
+    "https_port": "443",
+    "server_protocol": "http",
+    "rtmp_port": "1935",
+    "fuso horário": "América/São Paulo",
+    "timestamp_now": 1716300003,
+  }
+}
