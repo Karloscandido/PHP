@@ -9,7 +9,7 @@
     "is_trial": "0",
     "active_cons": "0",
     "created_at": "1713121594",
-    "max_connections": "3",
+    "max_connections": "1",
     "allowed_output_formats": [
       "m3u8",
       "ts"
