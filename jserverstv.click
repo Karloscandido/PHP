@@ -1,0 +1,52 @@
+{
+  "user_info": {
+    "username1": "ronaltiandrade",
+    "username2": "7831362287",
+    "username3": "emanuel32",
+    "username4": "269164836272",
+    "username5": "Vania6399",
+    "username6": "BELLCPkBMR",
+    "username7": "wagner94712",
+    "username8": "claudiaregina2",
+    "username9": "MARCIOSANTOS",
+    "username10": "carlosborges",
+    "username11": "fabi1838",
+    "username12": "patriciaoliveira",
+    "username13": "Azamerica",
+    "password1": "22997986427",
+    "password2": "5791975567",
+    "password3": "52456417686",
+    "password4": "153936282731",
+    "password5": "0vf3i19w9g",
+    "password6": "1642294324843",
+    "password7": "84936424802",
+    "password8": "fscv549726",
+    "password9": "679856859785684",
+    "password10": "22999947261",
+    "password11": "lwiam38for",
+    "password12": "3798637180",
+    "password13": "232482JAW",
+    "message": "Bem Vindo a JServers Tv",
+    "auth": 1,
+    "status": "Active",
+    "exp_date": "1747871572",
+    "is_trial": "0",
+    "active_cons": "13",
+    "created_at": "1653166372",
+    "max_connections": "50000",
+    "allowed_output_formats": [
+      "m3u8",
+      "ts"
+    ]
+  },
+  "server_info": {
+    "url": "jserverstv.click",
+    "port": "80",
+    "https_port": "443",
+    "server_protocol": "http",
+    "rtmp_port": "25462",
+    "timezone": "Europe/London",
+    "timestamp_now": 1717010512,
+    "time_now": "2024-05-29 20:21:52"
+  }
+}
