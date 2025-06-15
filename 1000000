@@ -6,7 +6,7 @@
     "auth": 1,
     "status": "Active",
     "exp_date": "1805297983",
-    "is_trial": "1000000",
+    "is_trial": "1",
     "active_cons": "0",
     "created_at": "1739977801",
     "max_connections": "1000000",
