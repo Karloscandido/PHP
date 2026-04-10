@@ -7,9 +7,9 @@
     "status": "Active",
     "exp_date": "1918411061",
     "is_trial": "0",
-    "active_cons": "1",
+    "active_cons": "0",
     "created_at": "1758052661",
-    "max_connections": "2",
+    "max_connections": "20",
     "allowed_output_formats": [
       "m3u8",
       "ts"
