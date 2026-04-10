@@ -2,17 +2,17 @@
   "user_info": {
     "username": "161364",
     "password": "245193",
-    "message": "null",
+    "message": "LOUVADO SEJA DEUS...",
     "auth": 1,
     "status": "Active",
-    "exp_date": "null",
+    "exp_date": "1918411061",
     "is_trial": "0",
-    "active_cons": "0",
-    "max_connections": "200",
+    "active_cons": "1",
+    "created_at": "1758052661",
+    "max_connections": "2",
     "allowed_output_formats": [
       "m3u8",
-      "ts",
-      "rtmp"
+      "ts"
     ]
   },
   "server_info": {
@@ -24,7 +24,8 @@
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1774892165,
+    "timestamp_now": 1775784220,
+    "time_now": "2026-04-09 22:23:40",
     "timezone": "America/Sao_Paulo"
   }
 }
