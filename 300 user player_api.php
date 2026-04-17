@@ -1,28 +1,18 @@
 {
   "user_info": {
-    "username": "754710",
-    "password": "pybS26",
-    "username": "268379",
-    "password": "fJ5zEZ",
-    "username": "448807",
-    "password": "PzZeyN",
-    "username": "999476",
-    "password": "yBkSDx",
-    "username": "912220",
-    "password": "EQpVPe",
-    "username": "716942",
-    "password": "VTMRNS",
+    "username": "950031",
+    "password": "ccwWkn",
     "message": null,
     "auth": 1,
     "status": "Active",
     "exp_date": null,
     "is_trial": "0",
-    "active_cons": 0,
-    "max_connections": "300",
+    "active_cons": 1,
+    "created_at": "1567789797",
+    "max_connections": "5",
     "allowed_output_formats": [
       "m3u8",
-      "ts",
-      "rtmp"
+      "ts"
     ]
   },
   "server_info": {
@@ -30,12 +20,12 @@
     "version": "1.5.5",
     "revision": 2,
     "url": "mix34.ddns.net",
-    "url": "mix34.ddns.net",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1774892165,
+    "timestamp_now": 1776385789,
+    "time_now": "2026-04-16 21:29:49",
     "timezone": "America/Sao_Paulo"
   }
 }
