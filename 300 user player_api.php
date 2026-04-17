@@ -1,6 +1,4 @@
-{
-  "user_info": {
-    "username": "952582b",
+
     "password": "418724b",
     "message": "LOUVADO SEJA DEUS...",
     "auth": 1,
