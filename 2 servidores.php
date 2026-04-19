@@ -1,15 +1,15 @@
 {
   "user_info": {
-    "username": "saulofont",
-    "password": "J5Y3fWs2hRja",
-    "message": "Quem esconde os seus pecados não prospera!",
+    "username": "168267489",
+    "password": "254756393",
+    "message": ".Welcome to the Stair!",
     "auth": 1,
     "status": "Active",
-    "exp_date": null,
+    "exp_date": "1783738799",
     "is_trial": "0",
-    "active_cons": "1029",
-    "created_at": "1638237228",
-    "max_connections": "1500",
+    "active_cons": "0",
+    "created_at": "1774470553",
+    "max_connections": "3",
     "allowed_output_formats": [
       "m3u8",
       "ts",
@@ -17,13 +17,15 @@
     ]
   },
   "server_info": {
-    "url": "zuhu.xyz",
+    "xui": true,
+    "version": "1.5.5",
+    "revision": 2,
+    "url": "mainxs.site",
     "port": "80",
-    "https_port": "443",
+    "https_port": "8443",
     "server_protocol": "http",
-    "rtmp_port": "25462",
-    "timezone": "America/Sao_Paulo",
-    "timestamp_now": 1776560237,
-    "time_now": "2026-04-18 21:57:17"
+    "rtmp_port": "8880",
+    "timestamp_now": 1776560659,
+    "timezone": "UTC"
   }
 }
