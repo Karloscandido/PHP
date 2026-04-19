@@ -1,15 +1,15 @@
 {
   "user_info": {
-    "username": "752311234",
-    "password": "642658119",
-    "message": "Bem vindo THUNDER PLAY",
+    "username": "saulofont",
+    "password": "J5Y3fWs2hRja",
+    "message": "Quem esconde os seus pecados não prospera!",
     "auth": 1,
     "status": "Active",
-    "exp_date": "1780887599",
+    "exp_date": null,
     "is_trial": "0",
-    "active_cons": "0",
-    "created_at": "1776110246",
-    "max_connections": "3",
+    "active_cons": "1029",
+    "created_at": "1638237228",
+    "max_connections": "1500",
     "allowed_output_formats": [
       "m3u8",
       "ts",
@@ -17,16 +17,13 @@
     ]
   },
   "server_info": {
-    "xui": true,
-    "version": "1.5.13",
-    "revision": null,
-    "url": "acxll.shop",
+    "url": "zuhu.xyz",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
-    "rtmp_port": "8880",
-    "timestamp_now": 1776558405,
-    "time_now": "2026-04-18 21:26:45",
-    "timezone": "America/Sao_Paulo"
+    "rtmp_port": "25462",
+    "timezone": "America/Sao_Paulo",
+    "timestamp_now": 1776560237,
+    "time_now": "2026-04-18 21:57:17"
   }
 }
