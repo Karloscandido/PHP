@@ -2,14 +2,14 @@
   "user_info": {
     "username": "168267489",
     "password": "254756393",
-    "message": ".Welcome to the Stair!",
+    "message": "null",
     "auth": 1,
     "status": "Active",
     "exp_date": "1783738799",
     "is_trial": "0",
     "active_cons": "0",
     "created_at": "1774470553",
-    "max_connections": "3",
+    "max_connections": "0",
     "allowed_output_formats": [
       "m3u8",
       "ts",
